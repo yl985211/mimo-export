@@ -14,7 +14,7 @@ A userscript to export conversations from Xiaomi MiMo AI Studio as HTML, Markdow
 ## 安装 | Install
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器扩展
-2. 新建脚本，粘贴 `mimo-export.user.js` 中的代码并保存
+2. 新建脚本，粘贴 `mimo-export导出脚本.js` 中的代码并保存
 3. 打开 [aistudio.xiaomimimo.com](https://aistudio.xiaomimimo.com/)，页面右下角出现导出按钮
 
 ## 使用 | Usage
@@ -23,9 +23,9 @@ A userscript to export conversations from Xiaomi MiMo AI Studio as HTML, Markdow
 - **导出当前对话** — 点击「导出当前对话」按钮
 - **批量导出** — 点击「刷新」扫描侧边栏，勾选对话后点击「导出选中对话」
 
-## 截图 | Screenshots
+## 预览 | Preview
 
-<!-- 可选 -->
+![mimo-export 截图](img.png)
 
 ## 许可 | License
 
