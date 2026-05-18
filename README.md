@@ -29,4 +29,4 @@ A userscript to export conversations from Xiaomi MiMo AI Studio as HTML, Markdow
 
 ## 许可 | License
 
-MIT
+GPLv3
