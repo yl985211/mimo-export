@@ -5,6 +5,7 @@
 // @description  完美清洗代码块防溢出，深度重组纯净超链接。内置 200ms 智能高频无感定时刷新，保留手动按钮，彻底释放双手！
 // @author       作者主页  https://github.com/yl985211    仓库地址  https://github.com/yl985211/mimo-export
 // @match        https://aistudio.xiaomimimo.com/*
+// @license GPLv3
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
